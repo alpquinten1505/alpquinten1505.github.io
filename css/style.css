@@ -1,0 +1,15 @@
+body {
+    /* Het lettertype instellen */
+    font-family: sans-serif;
+    background-color: rgb(238, 10, 86);
+
+}
+
+.inspringen {
+    margin-left: 80px;
+
+}
+
+img {
+    background-color: skyblue;
+}
